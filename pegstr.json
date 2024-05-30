@@ -1,0 +1,80 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "spade bit set": {
+            "closed_bottom": "0",
+            "corner_radius": "30",
+            "holder_angle": "0",
+            "holder_cutout_side": "0",
+            "holder_height": "15",
+            "holder_offset": "6",
+            "holder_x_count": "6",
+            "holder_x_size": "8",
+            "holder_y_count": "1",
+            "holder_y_size": "8",
+            "strength_factor": "0.66000000000000003",
+            "taper_ratio": "1",
+            "wall_thickness": "1.8500000000000001"
+        },
+        "New set 1": {
+            "closed_bottom": "0",
+            "corner_radius": "30",
+            "holder_angle": "0",
+            "holder_cutout_side": "0",
+            "holder_height": "15",
+            "holder_offset": "0",
+            "holder_x_count": "20",
+            "holder_x_size": "10",
+            "holder_y_count": "2",
+            "holder_y_size": "10",
+            "strength_factor": "0.66000000000000003",
+            "taper_ratio": "1",
+            "wall_thickness": "1.8500000000000001"
+        },
+        "New set 2": {
+            "closed_bottom": "0",
+            "corner_radius": "0",
+            "holder_angle": "0",
+            "holder_cutout_side": "0",
+            "holder_height": "15",
+            "holder_offset": "0",
+            "holder_x_count": "1",
+            "holder_x_size": "10",
+            "holder_y_count": "1",
+            "holder_y_size": "10",
+            "strength_factor": "0.66000000000000003",
+            "taper_ratio": "1",
+            "wall_thickness": "1.8500000000000001"
+        },
+        "New set 3": {
+            "closed_bottom": "0",
+            "corner_radius": "30",
+            "holder_angle": "0",
+            "holder_cutout_side": "0",
+            "holder_height": "15",
+            "holder_offset": "1.8",
+            "holder_x_count": "4",
+            "holder_x_size": "10",
+            "holder_y_count": "2",
+            "holder_y_size": "10",
+            "strength_factor": "0.66000000000000003",
+            "taper_ratio": "1",
+            "wall_thickness": "1.8500000000000001"
+        },
+        "New set 4": {
+            "closed_bottom": "0",
+            "corner_radius": "30",
+            "holder_angle": "0",
+            "holder_cutout_side": "0",
+            "holder_height": "15",
+            "holder_offset": "0",
+            "holder_x_count": "1",
+            "holder_x_size": "10",
+            "holder_y_count": "1",
+            "holder_y_size": "10",
+            "strength_factor": "0.66000000000000003",
+            "taper_ratio": "1",
+            "wall_thickness": "1.8500000000000001"
+        }
+    }
+}

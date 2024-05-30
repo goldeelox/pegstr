@@ -11,13 +11,13 @@
 // preview[view:north, tilt:bottom diagonal]
 
 // width of the orifice
-holder_x_size = 10; // [0.1:0.1:100]
+holder_x_size = 10; // [1.0:0.1:100]
 
 // depth of the orifice
-holder_y_size = 10; // [0.1:0.1:100]
+holder_y_size = 10; // [1.0:0.1:100]
 
 // hight of the holder
-holder_height = 15; // [0.1:0.1:100]
+holder_height = 15; // [5.0:0.1:100]
 
 // how thick are the walls. Hint: 6*extrusion width produces the best results.
 wall_thickness = 1.85; // [1.85:0.05:5.00]
