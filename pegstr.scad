@@ -50,7 +50,7 @@ closed_bottom = 0.0; // [0.0:0.1:2.0]
 holder_cutout_side = 0.0; // [0.0:0.1:0.8]
 
 // set an angle for the holder to prevent object from sliding or to view it better from the top
-holder_angle = 0.0; // [0:1:45]
+holder_angle = 0.0; // [-45:1:45]
 
 
 /* [Hidden] */
