@@ -11,46 +11,46 @@
 // preview[view:north, tilt:bottom diagonal]
 
 // width of the orifice
-holder_x_size = 10;
+holder_x_size = 10; // [0.1:0.1:100]
 
 // depth of the orifice
-holder_y_size = 10;
+holder_y_size = 10; // [0.1:0.1:100]
 
 // hight of the holder
-holder_height = 15;
+holder_height = 15; // [0.1:0.1:100]
 
 // how thick are the walls. Hint: 6*extrusion width produces the best results.
-wall_thickness = 1.85;
+wall_thickness = 1.85; // [1.85:0.05:5.00]
 
 // how many times to repeat the holder on X axis
-holder_x_count = 1;
+holder_x_count = 1; // [1:10]
 
 // how many times to repeat the holder on Y axis
-holder_y_count = 2;
+holder_y_count = 1; // [1:10]
 
 // orifice corner radius (roundness). Needs to be less than min(x,y)/2.
-corner_radius = 30;
+corner_radius = 30; // [0:100]
 
 // Use values less than 1.0 to make the bottom of the holder narrow
-taper_ratio = 1.0;
+taper_ratio = 1.00; // [0.00:0.05:1.00]
 
 
 /* [Advanced] */
 
 // offset from the peg board, typically 0 unless you have an object that needs clearance
-holder_offset = 0.0;
+holder_offset = 0.2; // [0.0:0.1:10.0]
 
 // what ratio of the holders bottom is reinforced to the plate [0.0-1.0]
-strength_factor = 0.66;
+strength_factor = 0.66; // [0.00:0.01:1.00]
 
 // for bins: what ratio of wall thickness to use for closing the bottom
-closed_bottom = 0.0;
+closed_bottom = 0.0; // [0.0:0.1:2.0]
 
 // what percentage cu cut in the front (example to slip in a cable or make the tool snap from the side)
-holder_cutout_side = 0.0;
+holder_cutout_side = 0.0; // [0.0:0.1:0.8]
 
 // set an angle for the holder to prevent object from sliding or to view it better from the top
-holder_angle = 0.0;
+holder_angle = 0.0; // [0:1:45]
 
 
 /* [Hidden] */
